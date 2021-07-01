@@ -13,7 +13,7 @@ def Ok():
     uname=e1.get()
     password=e2.get()
 
-    if(uname=="Bhargav7342" and password=="Bhargav@420"):
+    if(uname=="User7342" and password=="Pass@420"):
 
         messagebox.showinfo("","login Success")
         root.destroy()
